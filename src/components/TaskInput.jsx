@@ -68,6 +68,6 @@ const TaskInput = ({
       </ThemeProvider>
     </div>
   );
-};
+}; 
 
 export default TaskInput;
