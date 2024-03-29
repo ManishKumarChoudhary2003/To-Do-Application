@@ -22,7 +22,6 @@ This is a simple React To-Do application designed to help users efficiently mana
 - **Add tasks**: Click on the "Add Task" button and enter the task details.
 - **Edit tasks**: Click on the task you want to edit, make changes, and save.
 - **Delete tasks**: Click on the delete icon next to the task to remove it from the list.
-- **Prioritize tasks**: Drag and drop tasks to rearrange them based on priority.
 
 - 
 
